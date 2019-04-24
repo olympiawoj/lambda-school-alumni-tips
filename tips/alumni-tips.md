@@ -18,6 +18,7 @@
 14. [Taking Notes](#taking-notes)
 
 ### Asking Questions
+- "ALWAYS follow the 20 minute rule"
 
 - "Be humble about the things that you don't know. Sometimes it's okay if you don't know something, but you have to first try to help yourself." - Ryan Boris
 
